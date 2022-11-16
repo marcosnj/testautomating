@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="GFT App">
+	<test name="Regression Suite">
+		<classes>
+			<class name="regression.TestNG_TestClass1"></class>
+			<class name="regression.TestNG_TestClass2"></class>
+		</classes>
+	</test>
+</suite>
